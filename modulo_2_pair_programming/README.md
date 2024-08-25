@@ -2,6 +2,6 @@
 
 ## Contenido
 
-- **Módulo 2. Pair programming 01:** Apis
-- **Módulo 2. Pair programming 02:** BeautifulSoup
-- **Módulo 2. Pair programming 03:** Selenium
+- **Módulo 2. Leccion 01 pair programming 01:** Apis
+- **Módulo 2. Leccion 02 pair programming 02:** BeautifulSoup
+- **Módulo 2. Leccion 03 pair programming 03:** Selenium
